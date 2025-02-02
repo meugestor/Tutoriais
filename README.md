@@ -15,9 +15,7 @@ https://nginxproxymanager.com/logo.svg
 
 <p align="left">
 	<img src="https://nginxproxymanager.com/github.png"> 
-	<br>
-<img src="https://casaos.io/images/casa_9c491a0f.svg"> <br><br>
-</p>
+	<br><br></p>
  <br>
 ======================================
 
