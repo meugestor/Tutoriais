@@ -16,6 +16,14 @@ UBUNTU SERVER 20.04 LTS
 <p align="left">
 	<img src="https://nginxproxymanager.com/github.png"> 
 	<br><br></p>
+
+
+
+ Instalação CasaOS com 1 Comando [execute como root]
+ ```bash
+wget https://github.com/meugestor/Tutoriais/blob/938284b9d8c81b0dc485069ab95745c97c1a76ff/install_casaos.sh && chmod +x install_casaos.sh && ./install_casaos.sh
+
+```
 ======================================
 
 ## Instalação WuZAPI [API WHATSAPP] 
