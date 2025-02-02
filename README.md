@@ -32,6 +32,12 @@ wget https://github.com/meugestor/Tutoriais/blob/938284b9d8c81b0dc485069ab95745c
 > ▶️ <a href="https://youtu.be/xwUJ948kEHQ" target="_blank">Tutorial em Vídeo</a><br>
 <br>
 
+ Instalação Wuzapi com 1 Comando [execute como root]
+ ```bash
+wget https://github.com/meugestor/Tutoriais/blob/cb3ad1ec795d5ed30b3bb72af4488ec3eeb8266c/install_wuzapi.sh
+ && chmod +x install_wuzapi.sh && ./install_wuzapi.sh
+
+```
 ======================================
 
 ## Instalação WAHA [API WHATSAPP] 
