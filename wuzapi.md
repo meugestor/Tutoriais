@@ -92,4 +92,7 @@ sh webmin-setup-repos.sh
 ```
 apt-get install webmin --install-recommends
 ```
-
+## INICIE O WEBMIN
+```
+http://seuip:10000
+```
