@@ -24,3 +24,8 @@ curl -fsSL https://get.casaos.io | sudo bash
 > ▶️ <a href="https://youtu.be/sAx3Rk8vUTk" target="_blank">Tutorial em Vídeo</a><br>
  ======================================
 
+
+> Atualizar CasaOS
+```bash
+wget -qO- https://get.casaos.io/update | sudo bash
+```
