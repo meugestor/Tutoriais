@@ -1,5 +1,5 @@
 ## Tutoriais !!!
-> Basta clicar para ser direcionado para o Tutorial desejado !
+> Basta clicar para ser direcionado para o Tutorial desejado ! <br>
 ======================================
 
 
