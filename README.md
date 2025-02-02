@@ -13,7 +13,10 @@ https://nginxproxymanager.com/logo.svg
 > ▶️ <a href="https://youtu.be/sAx3Rk8vUTk" target="_blank">Tutorial em Vídeo</a><br>
 > ▶️ <a href="https://youtu.be/sAx3Rk8vUTk?si=Tv2Yw7C21Ku1PbEs&t=777" target="_blank">Tutorial em Vídeo Nginx Proxy Manager</a><br>
 
-
+<p align="left">
+	<img src="https://nginxproxymanager.com/github.png">
+	<br><br>
+</p>
  <br>
 ======================================
 
