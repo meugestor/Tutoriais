@@ -23,10 +23,14 @@ https://nginxproxymanager.com/logo.svg
 > 🌐 [WUZAPI API](https://github.com/meugestor/Tutoriais/blob/667525c3f46f05d6e5a4672190a905701d8973bc/wuzapi.md)<br>
 > ▶️ <a href="https://youtu.be/xwUJ948kEHQ" target="_blank">Tutorial em Vídeo</a><br>
 <br>
+
 ======================================
 
 ## Instalação WAHA [API WHATSAPP] 
 > 🌐 [[API WHATSAPP]](https://github.com/meugestor/Tutoriais/blob/9243aec0e4ca9c15b52720d70777013ca242f24a/waha.md)<br>
 > ▶️ <a href="https://youtu.be/qBQDrRW3qTg" target="_blank">Tutorial em Vídeo</a><br>
 <br>
+<p align="left">
+	<img src="https://waha.devlike.pro/images/logo.svg"> 
+	<br><br></p>
 ======================================
