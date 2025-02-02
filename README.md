@@ -11,7 +11,7 @@ UBUNTU SERVER 20.04 LTS
 ## Instalação CasaOS
 
 > 🌐 [CASAOS](https://github.com/meugestor/Tutoriais/blob/cd2a548c42141a9828f1ed0fedc85cd41580b7e2/casaos.md) <br>
-> ▶️
+> ▶️ [Tutorial em Vídeo](https://youtu.be/sAx3Rk8vUTk)
  <br>
 ======================================
 
@@ -24,6 +24,6 @@ UBUNTU SERVER 20.04 LTS
 
 ## Instalação WAHA [API WHATSAPP] 
 > 🌐 [[API WHATSAPP]](https://github.com/meugestor/Tutoriais/blob/9243aec0e4ca9c15b52720d70777013ca242f24a/waha.md)<br>
->▶️
+>▶️ [Tutorial em Vídeo](https://youtu.be/qBQDrRW3qTg)
 <br>
 ======================================
