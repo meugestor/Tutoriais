@@ -35,25 +35,25 @@ export PATH=$PATH:/usr/local/go/bin
 ```
 
 > Faça o Export Necessário 
-```
+```bash
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/opt/wuzapi
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 ```
 
 > Ative o CGO
-```
+```bash
 go env -w CGO_ENABLED=1
 ```
 
 > Clone o Repositório
-```
+```bash
 git clone https://github.com/asternic/wuzapi.git
 ```
-```
+```bash
 cd wuzapi
 ```
-```
+```bash
 go build .
 ```
 ```
