@@ -13,7 +13,7 @@ https://nginxproxymanager.com/logo.svg
 	<img src="https://nginxproxymanager.com/github.png">
 	<br><br>
 </p>
-> 🌐 [CASAOS](https://github.com/meugestor/Tutoriais/blob/cd2a548c42141a9828f1ed0fedc85cd41580b7e2/casaos.md) <br>
+> 🌐 [CASAOS](https://github.com/meugestor/Tutoriais/blob/7756ef43b87e3a3dddcae81109c91a880d0d2a31/casaos.md) <br>
 > ▶️ <a href="https://youtu.be/sAx3Rk8vUTk" target="_blank">Tutorial em Vídeo</a><br>
 > ▶️ <a href="https://youtu.be/sAx3Rk8vUTk?si=Tv2Yw7C21Ku1PbEs&t=777" target="_blank">Tutorial em Vídeo Nginx Proxy Manager</a><br>
 
