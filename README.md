@@ -16,7 +16,6 @@ https://nginxproxymanager.com/logo.svg
 <p align="left">
 	<img src="https://nginxproxymanager.com/github.png"> 
 	<br><br></p>
- <br>
 ======================================
 
 ## Instalação WuZAPI [API WHATSAPP] 
