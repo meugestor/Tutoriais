@@ -45,7 +45,6 @@ apt-get install webmin --install-recommends;
 
 
 ## Finalização, atualização e limpeza##
-echo "Finalização, atualização total e limpeza"
 sudo apt update && sudo apt dist-upgrade -y
-echo "CasaOS Instalado com Sucesso!"
+echo "CasaOS WebMin e WuZAPI Instalados com Sucesso!"
 echo "Sctipt feito por Wesley Barbosa"
