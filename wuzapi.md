@@ -5,14 +5,17 @@ Manual de instalação !
 > UBUNTU 20.04
 > 6GB RAM
 
+## Recomendação !!!!
+CasaOS e Nginx Proxy Manager
+
 > BASTA COPIAR E COLAR CADA UM DOS COMANDOS QUE SUA API SERÁ INSTALADA !
 
-## INSTALE AS DEPENDÊNCIAS
+## Instale as Dependências
 ```bash
 sudo apt update && apt upgrade && apt install git && apt install nginx && sudo apt-get install curl && sudo apt-get install gcc && sudo apt-get install sqlite3
 ```
 
-## INSTALE O GOLANG
+## Instale o Golang
 
 ```bash
 wget https://go.dev/dl/go1.23.5.linux-amd64.tar.gz
@@ -25,20 +28,47 @@ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.23.5.linux-amd64.tar.gz
 ```bash
 export PATH=$PATH:/usr/local/go/bin
 ```
-> VERIFIQUE SE O GOLANG FOI INSTALADO 
+> Verifique se o Golang GO foi instalado
 
 ```bash
  go version
 ```
 
-## ADICIONE AS LINHAS E EM SEGUIDA EXECUTE AS MESMAS NO TERMINAL
+## Faça o Export Necessário 
 ```
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/opt/wuzapi
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 ```
 
-## RODAR COMANDO ABAIXO
+## Ative o CGO
 ```
 go env -w CGO_ENABLED=1
 ```
+
+## Clone o Repositório
+```
+git clone https://github.com/asternic/wuzapi.git
+```
+```
+cd wuzapi
+```
+```
+go build .
+```
+> PARE A API [CTRL+C]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
