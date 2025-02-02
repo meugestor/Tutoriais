@@ -1,4 +1,4 @@
-# CASAOS
+# WA-HA API WHATSAPP
 Manual de instalação !
 
 ## RECOMENDAÇÃO DE CONFIGURAÇÃO
