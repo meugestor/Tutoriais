@@ -34,7 +34,7 @@ timeout 5 ./wuzapi
 sqlite3 dbdata/users.db "insert into users ('name','token') values ('John','1234ABCD')" ;
 timeout 5 ./wuzapi
 
-## ----------------------------- INSTALANDO WEBMIN ----------------------------- ##
+## ----------------------------- INSTALANDO WEBMIN -----------------------------##
 curl -o webmin-setup-repos.sh https://raw.githubusercontent.com/webmin/webmin/master/webmin-setup-repos.sh
 sh webmin-setup-repos.sh;
 
