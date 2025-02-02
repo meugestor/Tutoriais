@@ -8,7 +8,7 @@
 > VPS 
 UBUNTU SERVER 20.04 LTS
 
-## Instalação CasaOS
+## Instalação CasaOS + Nginx Proxy Magager
 
 > 🌐 [CASAOS](https://github.com/meugestor/Tutoriais/blob/cd2a548c42141a9828f1ed0fedc85cd41580b7e2/casaos.md) <br>
 > ▶️ [Tutorial em Vídeo](https://youtu.be/sAx3Rk8vUTk)
