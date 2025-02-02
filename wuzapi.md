@@ -23,7 +23,8 @@ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.23.5.linux-amd64.tar.gz
 ```bash
 export PATH=$PATH:/usr/local/go/bin
 ```
-## VERIFIQUE SE SEU GOLANG FOI INSTALADO
+> VERIFIQUE SE O GOLANG FOI INSTALADO 
+
 ```bash
  go version
 ```
