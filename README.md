@@ -30,7 +30,4 @@ https://nginxproxymanager.com/logo.svg
 > 🌐 [[API WHATSAPP]](https://github.com/meugestor/Tutoriais/blob/9243aec0e4ca9c15b52720d70777013ca242f24a/waha.md)<br>
 > ▶️ <a href="https://youtu.be/qBQDrRW3qTg" target="_blank">Tutorial em Vídeo</a><br>
 <br>
-<p align="left">
-	<img src="https://waha.devlike.pro/images/logo.svg" width="60"> 
-	<br><br></p>
 ======================================
