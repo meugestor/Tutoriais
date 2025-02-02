@@ -2,4 +2,4 @@
 
 > Instalação WuZAPI [API WHATSAPP]
 
-> [WUZAPI API](https://www.md5hashgenerator.com](https://github.com/meugestor/Tutoriais/blob/e23625e44814cb484c63f366519d3bf57ecd94f4/wuzapi.md)
+> [[WUZAPI API]](https://github.com/meugestor/Tutoriais/blob/667525c3f46f05d6e5a4672190a905701d8973bc/wuzapi.md)
