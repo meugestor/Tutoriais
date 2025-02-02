@@ -4,7 +4,6 @@
 ##COMENTÁTIOS DEVEM FICAR ENTRE HASTAGS##
 echo "Este Script foi desenvolvido por Wesley Barbosa "
 # ----------------------------- Script ----------------------------- #
-echo "Atualizando Sistema Operacional"
 sudo apt update && sudo apt upgrade -y; sudo apt update;
 sudo apt install git; sudo apt install curl;
 apt --fix-broken install; 
