@@ -21,5 +21,5 @@ curl -fsSL https://get.casaos.io | sudo bash
 ```
 
 > Siga o Vídeo para instalar o Nginx Proxy Manager<br>
-> ▶️ [Tutorial em Vídeo](https://youtu.be/sAx3Rk8vUTk)
+> ▶️ [Tutorial em Vídeo](https://youtu.be/sAx3Rk8vUTk)<br>
  ======================================
