@@ -79,6 +79,10 @@ sqlite3 dbdata/users.db "insert into users ('name','token') values ('SUA EMPRESA
 ```
 
 
+> PRONTO SUA API ESTÁ INSTALADA E FUNCIONANDO !!!
 
+
+## EXTRA
+> INSTTALE O WEBMIN
 
 
