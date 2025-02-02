@@ -9,7 +9,7 @@ VPS
 UBUNTU SERVER 20.04 LTS
 
 ## Instalação CasaOS
-> EM BREVE
+> [CASAOS](https://github.com/meugestor/Tutoriais/blob/cd2a548c42141a9828f1ed0fedc85cd41580b7e2/casaos.md)
 
 ## Instalação WuZAPI [API WHATSAPP]
 
