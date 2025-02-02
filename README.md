@@ -1,5 +1,6 @@
 ## Tutoriais !!!
 > Basta clicar para ser direcionado para o Tutorial desejado !
+=================================================================
 
 > Instalação WuZAPI [API WHATSAPP]
 
