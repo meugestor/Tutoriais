@@ -5,7 +5,7 @@
 
 ## Configuração Padrão antes de Todos os Tutoriais !!!
 
-VPS 
+> VPS 
 UBUNTU SERVER 20.04 LTS
 
 ## Instalação CasaOS
