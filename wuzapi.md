@@ -56,7 +56,7 @@ cd wuzapi
 ```bash
 go build .
 ```
-```
+```bash
 ./wuzapi -logtype json
 ```
 > PARE A API [CTRL+C]
@@ -74,7 +74,7 @@ sqlite3 dbdata/users.db "insert into users ('name','token') values ('SUA EMPRESA
 ```
 > Inicie a API
 
-```
+```bash
 ./wuzapi -logtype json
 ```
 
@@ -84,15 +84,15 @@ sqlite3 dbdata/users.db "insert into users ('name','token') values ('SUA EMPRESA
 
 ## EXTRA
 > INSTTALE O WEBMIN
-```
+```bash
 curl -o webmin-setup-repos.sh https://raw.githubusercontent.com/webmin/webmin/master/webmin-setup-repos.sh
 sh webmin-setup-repos.sh
 ```
 
-```
+```bash
 apt-get install webmin --install-recommends
 ```
 ## INICIE O WEBMIN
-```
+```bash
 http://seuip:10000
 ```
