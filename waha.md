@@ -10,7 +10,7 @@ Manual de instalação !
 ## Instalação CasaOS
 > [CASAOS](https://github.com/meugestor/Tutoriais/blob/cd2a548c42141a9828f1ed0fedc85cd41580b7e2/casaos.md)
 
-
+## Instalação WAHA
 ```bash
 docker run -it -p 3000:3000/tcp devlikeapro/waha
 ```
