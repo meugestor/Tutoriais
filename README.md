@@ -14,7 +14,7 @@ https://nginxproxymanager.com/logo.svg
 > ▶️ <a href="https://youtu.be/sAx3Rk8vUTk?si=Tv2Yw7C21Ku1PbEs&t=777" target="_blank">Tutorial em Vídeo Nginx Proxy Manager</a><br>
 
 <p align="left">
-	<img src="https://nginxproxymanager.com/github.png">
+	<img src="https://nginxproxymanager.com/github.png"> <img src="https://casaos.io/images/casa_9c491a0f.svg"> 
 	<br><br>
 </p>
  <br>
