@@ -56,17 +56,27 @@ cd wuzapi
 ```
 go build .
 ```
+```
+./wuzapi -logtype json
+```
 > PARE A API [CTRL+C]
 
+> Insira suas credenciais
 
+```bash
+sqlite3 dbdata/users.db "insert into users ('name','token') values ('John','1234ABCD')" 
+```
 
+> OU CRIE UM PERSONALIZADO[RECOMENDADO]
+> Insira suas credenciais (<a href="https://www.md5hashgenerator.com" target="_blank"> Gerador MD5 </a>)
+```bash
+sqlite3 dbdata/users.db "insert into users ('name','token') values ('SUA EMPRESA','YOUR_TOKEN_USER_STRING')" 
+```
+> Inicie a API
 
-
-
-
-
-
-
+```
+./wuzapi -logtype json
+```
 
 
 
