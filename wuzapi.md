@@ -5,6 +5,8 @@ Manual de instalação !
 > UBUNTU 20.04
 > 6GB RAM
 
+> BASTA COPIAR E COLAR CADA UM DOS COMANDOS QUE SUA API SERÁ INSTALADA !
+
 ## INSTALE AS DEPENDÊNCIAS
 ```bash
 sudo apt update && apt upgrade && apt install git && apt install nginx && sudo apt-get install curl && sudo apt-get install gcc && sudo apt-get install sqlite3
