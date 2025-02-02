@@ -84,5 +84,12 @@ sqlite3 dbdata/users.db "insert into users ('name','token') values ('SUA EMPRESA
 
 ## EXTRA
 > INSTTALE O WEBMIN
+```
+curl -o webmin-setup-repos.sh https://raw.githubusercontent.com/webmin/webmin/master/webmin-setup-repos.sh
+sh webmin-setup-repos.sh
+```
 
+```
+apt-get install webmin --install-recommends
+```
 
