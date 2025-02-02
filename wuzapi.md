@@ -30,3 +30,15 @@ export PATH=$PATH:/usr/local/go/bin
 ```bash
  go version
 ```
+
+## ADICIONE AS LINHAS E EM SEGUIDA EXECUTE AS MESMAS NO TERMINAL
+```
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/opt/wuzapi
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+```
+
+## RODAR COMANDO ABAIXO
+```
+go env -w CGO_ENABLED=1
+```
