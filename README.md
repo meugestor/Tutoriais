@@ -31,6 +31,6 @@ https://nginxproxymanager.com/logo.svg
 > ▶️ <a href="https://youtu.be/qBQDrRW3qTg" target="_blank">Tutorial em Vídeo</a><br>
 <br>
 <p align="left">
-	<img src="https://waha.devlike.pro/images/logo.svg"> 
+	<img src="https://waha.devlike.pro/images/logo.svg" width="60"> 
 	<br><br></p>
 ======================================
