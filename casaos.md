@@ -1,4 +1,4 @@
-# CASA OS
+# CASAOS
 Manual de instalação !
 
 ## RECOMENDAÇÃO DE CONFIGURAÇÃO
